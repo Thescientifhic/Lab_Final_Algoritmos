@@ -1,0 +1,15 @@
+.btn{
+    background-color: rgb(251, 0, 255);
+    border-radius: 30px;
+    height: 45px;
+    width: 280px;
+    border: none;
+    margin-top: 20px;
+    font-weight: bolder;
+    font-family: 'DM Sans', sans-serif;
+    font-size: small;
+    color: white;
+    margin-top: 50px;
+    margin-left: 600px;
+}
+
