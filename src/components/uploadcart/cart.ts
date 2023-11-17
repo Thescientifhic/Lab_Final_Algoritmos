@@ -73,7 +73,7 @@ export class Feed extends HTMLElement {
 
 
             const price = this.ownerDocument.createElement("p")
-            const productPrice = "Price: ";
+            const productPrice = "Price: $";
             price.innerText = `${productPrice}${this.price}`
             sectionContainer.appendChild(price)
 
